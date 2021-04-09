@@ -1,4 +1,4 @@
-# Wrapped-HumanCharityCoin-BSC
+# Wrapped-Placeholders (WPHL)
 
 Wrapped Placeholders (WPHL) on the Binance Smart Chain
 
